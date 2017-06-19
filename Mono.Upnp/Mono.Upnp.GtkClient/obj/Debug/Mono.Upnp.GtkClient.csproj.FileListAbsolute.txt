@@ -1,0 +1,6 @@
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\src\Mono.Upnp\Mono.Upnp.GtkClient\obj\Debug\Mono.Upnp.GtkClient.csprojResolveAssemblyReference.cache
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\bin\Mono.Upnp.GtkClient.exe.config
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\bin\Mono.Upnp.GtkClient.exe
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\bin\Mono.Upnp.GtkClient.pdb
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\src\Mono.Upnp\Mono.Upnp.GtkClient\obj\Debug\Mono.Upnp.GtkClient.exe
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\src\Mono.Upnp\Mono.Upnp.GtkClient\obj\Debug\Mono.Upnp.GtkClient.pdb

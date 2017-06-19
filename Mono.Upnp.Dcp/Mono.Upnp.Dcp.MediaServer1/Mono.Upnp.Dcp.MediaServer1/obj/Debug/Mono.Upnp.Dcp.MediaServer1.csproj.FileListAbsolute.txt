@@ -1,0 +1,16 @@
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\bin\Mono.Upnp.Dcp.MediaServer1.dll
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\bin\Mono.Upnp.Dcp.MediaServer1.pdb
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\src\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\obj\Debug\Mono.Upnp.Dcp.MediaServer1.csprojResolveAssemblyReference.cache
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\src\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\obj\Debug\Mono.Upnp.Dcp.MediaServer1.dll
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\src\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\obj\Debug\Mono.Upnp.Dcp.MediaServer1.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\bin\Mono.Upnp.Dcp.MediaServer1.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\bin\Mono.Upnp.Dcp.MediaServer1.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\bin\Mono.Upnp.Dcp.MediaServer1.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\bin\Mono.Upnp.Dcp.MediaServer1.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\bin\Mono.Upnp.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\bin\Mono.Ssdp.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\bin\Mono.Upnp.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\bin\Mono.Ssdp.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\obj\Debug\Mono.Upnp.Dcp.MediaServer1.csprojResolveAssemblyReference.cache
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\obj\Debug\Mono.Upnp.Dcp.MediaServer1.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1\obj\Debug\Mono.Upnp.Dcp.MediaServer1.pdb

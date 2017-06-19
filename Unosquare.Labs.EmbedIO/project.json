@@ -1,0 +1,56 @@
+{
+  "version": "1.6.10-*",
+  "title": "EmbedIO Web Server",
+  "description": "A tiny, cross-platform, module based, MIT-licensed web server. Supporting NET FX, NET Core, NET Standard and MONO.",
+  "copyright": "Copyright © Unosquare 2013-2017",
+  "authors": [
+    "Mario Di Vece",
+    "Geovanni Perez"
+  ],
+  "buildOptions": {
+    "xmlDoc": true
+  },
+
+  "dependencies": {
+    "Unosquare.Swan": "0.14.2"
+  },
+
+  "frameworks": {
+    "uap10.0": {
+      "dependencies": {
+        "System.Net.NameResolution": "4.3.0",
+        "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+      },
+      "buildOptions": { "define": [ "UWP" ] }
+    },
+    "netstandard1.6": {
+      "dependencies": {
+        "System.Text.Encoding.Extensions": "4.3.0",
+        "System.Threading.Timer": "4.3.0",
+        "System.ObjectModel": "4.3.0",
+        "System.IO.Compression": "4.3.0",
+        "System.Collections.Specialized": "4.3.0",
+        "System.Net.Requests": "4.3.0",
+        "System.Net.NameResolution": "4.3.0"
+      }
+    },
+    "netstandard1.3": {
+      "imports": "portable-net45+win8+wpa81+wp8",
+      "dependencies": {
+        "System.Text.Encoding.Extensions": "4.3.0",
+        "System.Threading.Timer": "4.3.0",
+        "System.ObjectModel": "4.3.0",
+        "System.IO.Compression": "4.3.0",
+        "System.Collections.NonGeneric": "4.3.0",
+        "System.Collections.Specialized": "4.3.0",
+        "System.Net.Requests": "4.3.0",
+        "System.Net.NameResolution": "4.3.0"
+      }
+    },
+    "net452": {
+
+    },
+    "net46": {
+    }
+  }
+}

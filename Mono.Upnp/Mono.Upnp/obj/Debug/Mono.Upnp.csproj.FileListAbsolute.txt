@@ -1,0 +1,7 @@
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp\Mono.Upnp\bin\Mono.Upnp.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp\Mono.Upnp\bin\Mono.Upnp.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp\Mono.Upnp\bin\Mono.Ssdp.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp\Mono.Upnp\bin\Mono.Ssdp.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp\Mono.Upnp\obj\Debug\Mono.Upnp.csprojResolveAssemblyReference.cache
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp\Mono.Upnp\obj\Debug\Mono.Upnp.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp\Mono.Upnp\obj\Debug\Mono.Upnp.pdb

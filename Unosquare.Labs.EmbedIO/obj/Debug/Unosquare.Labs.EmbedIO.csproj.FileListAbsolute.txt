@@ -1,0 +1,8 @@
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Unosquare.Labs.EmbedIO\obj\Debug\Unosquare.Labs.EmbedIO.csprojResolveAssemblyReference.cache
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Unosquare.Labs.EmbedIO\bin\Debug\Unosquare.Labs.EmbedIO.XML
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Unosquare.Labs.EmbedIO\bin\Debug\Unosquare.Labs.EmbedIO.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Unosquare.Labs.EmbedIO\bin\Debug\Unosquare.Labs.EmbedIO.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Unosquare.Labs.EmbedIO\bin\Debug\Unosquare.Swan.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Unosquare.Labs.EmbedIO\bin\Debug\Unosquare.Swan.xml
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Unosquare.Labs.EmbedIO\obj\Debug\Unosquare.Labs.EmbedIO.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Unosquare.Labs.EmbedIO\obj\Debug\Unosquare.Labs.EmbedIO.pdb

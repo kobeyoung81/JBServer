@@ -1,0 +1,4 @@
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Ssdp\bin\Mono.Ssdp.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Ssdp\bin\Mono.Ssdp.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Ssdp\obj\Debug\Mono.Ssdp.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Ssdp\obj\Debug\Mono.Ssdp.pdb

@@ -1,0 +1,27 @@
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\src\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\obj\Debug\Mono.Upnp.Dcp.MediaServer1.FileSystem.csprojResolveAssemblyReference.cache
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\bin\Mono.Upnp.Dcp.MediaServer1.FileSystem.dll
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\bin\Mono.Upnp.Dcp.MediaServer1.FileSystem.pdb
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\src\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\obj\Debug\Mono.Upnp.Dcp.MediaServer1.FileSystem.dll
+C:\Users\kobeyoung81\CodeRepo\mono-upnp\src\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\obj\Debug\Mono.Upnp.Dcp.MediaServer1.FileSystem.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\bin\Mono.Upnp.Dcp.MediaServer1.FileSystem.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\bin\Mono.Upnp.Dcp.MediaServer1.FileSystem.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Mono.Upnp.Dcp.MediaServer1.FileSystem.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Mono.Upnp.Dcp.MediaServer1.FileSystem.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Mono.Addins.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Mono.Upnp.Dcp.MediaServer1.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Mono.Upnp.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\policy.2.0.taglib-sharp.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\taglib-sharp.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Mono.Ssdp.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Mono.Upnp.Dcp.MediaServer1.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Mono.Upnp.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Mono.Ssdp.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\policy.2.0.taglib-sharp.config
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\obj\Debug\Mono.Upnp.Dcp.MediaServer1.FileSystem.csprojResolveAssemblyReference.cache
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\obj\Debug\Mono.Upnp.Dcp.MediaServer1.FileSystem.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\obj\Debug\Mono.Upnp.Dcp.MediaServer1.FileSystem.pdb
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Unosquare.Labs.EmbedIO.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Unosquare.Swan.dll
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Unosquare.Labs.EmbedIO.xml
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Unosquare.Swan.xml
+C:\Users\kobeyoung81\Documents\Visual Studio 2017\Projects\Mono.Upnp.Dcp\Mono.Upnp.Dcp.MediaServer1\Mono.Upnp.Dcp.MediaServer1.FileSystem\bin\Unosquare.Labs.EmbedIO.pdb
